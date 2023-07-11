@@ -6,9 +6,7 @@ import Calculator from './calculator-react-js/Calculator';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- <>
- <Weather />
- </>
+
  <>
  <Calculator />
  </>

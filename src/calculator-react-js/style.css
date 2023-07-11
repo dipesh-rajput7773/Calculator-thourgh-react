@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.wrapper{
+    background-color: red;
+    padding: 20px;
+    border-radius:20px;
+    border: none;
+}
+input{
+    width: 100%;
+    max-width: 500px;
+    border-radius: 20px;
+    height: 80px;
+    background: transparent;
+    border: none;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+button{
+    border: none;
+    color: #fff;
+    margin: 15px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: orange;
+}
